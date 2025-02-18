@@ -1,0 +1,15 @@
+button {
+    width: 120px;
+    height: 40px;
+    background-color: rgb(34, 133, 214);
+    color: aliceblue;
+    margin-top: 20px; /* Измените отступ сверху */
+    border: none;
+    border-radius: 8px; /* Кнопка будет более закругленной */
+    cursor: pointer;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); /* Добавление небольшой тени */
+  }
+  
+  button:hover {
+    background-color: rgb(29, 113, 181); /* Цвет при наведении */
+  }
